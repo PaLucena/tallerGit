@@ -1,0 +1,47 @@
+commit 6c8a46d72ede8b2860bd89e6ffe0b95d93e65851
+Author: PaLucena <pablolucena01@gmail.com>
+Date:   Thu Dec 12 15:49:36 2024 +0100
+
+    feat: Improved pptx
+
+commit 2d3d9bea67994d30d57e639d2dc0b7f70a918a6f
+Author: PaLucena <pablolucena01@gmail.com>
+Date:   Thu Dec 12 15:29:40 2024 +0100
+
+    docs: created subject00 & subject03, completed subject02
+
+commit e41bdd6099a9bb806b9c368ea557bbb48fbb002c
+Author: Delfina Maria Luz Parada <dparada@c1r6s3.42malaga.com>
+Date:   Thu Dec 12 13:39:09 2024 +0100
+
+    changed subject02
+
+commit 7d1f8bf1e053457dd56a9a3ade4f1c76cb5209ab
+Author: Delfina Maria Luz Parada <dparada@c1r6s3.42malaga.com>
+Date:   Thu Dec 12 13:30:49 2024 +0100
+
+    added first draft of subject02.txt
+
+commit 2a5a5bb1d7901a812b21e0491a84bf88e162265a
+Author: PaLucena <pablolucena01@gmail.com>
+Date:   Wed Dec 4 10:37:43 2024 +0100
+
+    docs: branch name
+
+commit 8a3e7741bf09cd381e658db9f8ce329ffd02d6f5
+Author: PaLucena <pablolucena01@gmail.com>
+Date:   Wed Dec 4 10:24:15 2024 +0100
+
+    feat: replaced pptx
+
+commit 700f8453b4921d8acd32070f5271913b1b156d0b
+Author: PaLucena <pablolucena01@gmail.com>
+Date:   Tue Dec 3 23:31:17 2024 +0100
+
+    feat: added subject && resources
+
+commit 93bf675d614ab02669f8c825ec9734474c302f98
+Author: Pablo Lucena González <pablolucena01@gmail.com>
+Date:   Tue Dec 3 20:05:44 2024 +0100
+
+    Initial commit
