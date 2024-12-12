@@ -31,3 +31,6 @@ Con el compañero más cercano a ti:
      - Añade los cambios de <login> a "main"
 
 ¿Por qué creen que hubo conflictos en el minishell.c?
+
+- ¿Saben lo que es un .gitignore? ¿Para que sirve?
+  Creen un .gitignore que no permita subir los objetos, el ejecutable ni los subjects.
