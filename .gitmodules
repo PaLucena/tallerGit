@@ -1,0 +1,3 @@
+[submodule "git-2"]
+	path = git-2
+	url = git@github.com:char-projects/git-2.git
